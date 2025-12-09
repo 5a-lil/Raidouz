@@ -1,5 +1,5 @@
-# Raidous
-A Shoot-em up type game made completely in Lua.
+# Raidouz
+A 8-bit Shoot-em up game made completely in Lua with Pico-8 virtual development environment.
 Features:
 - homemade particles managment (shoots, explosions etc...)
 - enemy waves
